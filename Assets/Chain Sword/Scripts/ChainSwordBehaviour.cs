@@ -48,7 +48,7 @@ public class ChainSwordBehaviour : MonoBehaviour
     bool gliding;
     bool climbing;
     bool stabbed;
-    float tossForce = 10;
+    float tossForce = 20;
     Vector3 stabbedStartEuler = new Vector3();
 
     public bool hasChain;
